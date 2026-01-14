@@ -24,7 +24,7 @@ This repo contains verilog code for an asynchronous FIFO.
 7. [References](#references)
    
 ## Author
-[Sagar_katariya]
+[Sagar Katariya](https://www.linkedin.com/in/sagar-katariya-803763248/)
 
 ## Introduction
 
